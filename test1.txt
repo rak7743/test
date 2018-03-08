@@ -6,6 +6,7 @@ line 1
 
 line 2
 
+<<<<<<< HEAD
 line 3
 
 line 4
@@ -13,3 +14,6 @@ line 4
 >>>>>>> parent of 53a88f3... 라인 3 추가
 =======
 >>>>>>> parent of 53a88f3... 라인 3 추가
+=======
+line 3
+>>>>>>> parent of 6c1e1df... 라인 4 추가
